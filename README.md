@@ -24,7 +24,7 @@ Given the following markup:
 ```
 
 ```
-import wrapAll from 'domwrapall'
+import wrapAll from 'dom-wrap-all'
 
 var fruits = document.getElementsByTagName('li');
 var ol = document.createElement('ol');
