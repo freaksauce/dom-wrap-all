@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/freaksauce/domwrapall.svg?branch=master)](https://travis-ci.org/freaksauce/domwrapall)
+[![Build Status](https://travis-ci.org/freaksauce/dom-wrap-all.svg?branch=master)](https://travis-ci.org/freaksauce/dom-wrap-all)
 
 # dom-wrap-all
 Wrap multiple DOM nodes with a wrapper element.
