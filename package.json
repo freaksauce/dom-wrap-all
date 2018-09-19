@@ -1,6 +1,6 @@
 {
   "name": "dom-wrap-all",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Wrap multiple DOM nodes with a wrapper element",
   "repository": {
     "type": "git",
