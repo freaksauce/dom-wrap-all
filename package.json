@@ -1,0 +1,25 @@
+{
+  "name": "dom-wrap-all",
+  "version": "0.0.1",
+  "description": "Wrap multiple DOM nodes with a wrapper element",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freaksauce/domwrapall"
+  },
+  "main": "index.js",
+  "keywords": [
+    "parents",
+    "dom"
+  ],
+  "author": "Jon Bloomer",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
