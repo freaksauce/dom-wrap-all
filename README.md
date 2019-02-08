@@ -38,10 +38,10 @@ wrapAll(fruits, ol);
 <p>2</p>
 <p>3</p>
 <ol>
-	<li>Apples</li>
-	<li>Bananas</li>
-	<li>Cherries</li>
-	<li>Dates</li>
+  <li>Apples</li>
+  <li>Bananas</li>
+  <li>Cherries</li>
+  <li>Dates</li>
 </ol>
 <p>4</p>
 <p>5</p>
